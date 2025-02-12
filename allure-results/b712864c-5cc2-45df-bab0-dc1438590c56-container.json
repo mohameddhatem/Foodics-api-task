@@ -1,0 +1,1 @@
+{"uuid":"b712864c-5cc2-45df-bab0-dc1438590c56","name":"tests.whoami","children":["2eb2cef9-b439-4ce2-b24b-96620b25bc0c"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1739210111661,"stop":1739210111830}],"afters":[],"start":1739210111648,"stop":1739210114028}
